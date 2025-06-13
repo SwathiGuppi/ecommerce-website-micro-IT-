@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.dh{
+    padding: 5px;
+    display: inline;
+    font-size: 10px;
+}
+.heart{
+  color: green;
+  font-size: 2em;
+}
+.star{
+  color: green;
+  font-size: 2em;
+}
+.sd{
+   padding: 5px;
+    align-items: center;
+    display: inline;
+    font-size: 10px;
+}
+
+.f{
+    padding: 5px;
+    align-items: center;
+    display: inline;
+    font-size: 10px;
+    
+}
